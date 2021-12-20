@@ -19,9 +19,9 @@ uint8_t temprature_sens_read();
 #endif
 uint8_t temprature_sens_read();
 
-char auth[] = "a1cca17762864bd985dd2d575186fe16"; //  Token ที่ แอปส่งเข้า Email ให้น้ำมาใส่แทน
-char ssid[] = "Comsci"; // ชื่อไวไฟ ที่บอร์ดจะ connect
-char pass[] = "comsci1669"; // พาสเวิร์ดของไวไฟ
+char auth[] = "xxxxxxxxxxxxxxxxxx"; //  Token ที่ แอปส่งเข้า Email ให้น้ำมาใส่แทน
+char ssid[] = "xxxxxxx"; // ชื่อไวไฟ ที่บอร์ดจะ connect
+char pass[] = "xxxxxxxx"; // พาสเวิร์ดของไวไฟ
 
 int ReCnctCount = 0; // Reconnection counter
 
